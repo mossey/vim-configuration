@@ -1,0 +1,1 @@
+/home/moses/.vim/vimrc
